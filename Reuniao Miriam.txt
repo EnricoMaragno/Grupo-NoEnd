@@ -1,0 +1,31 @@
+primeiramente nos gostariamos de entender um pouco mais a fundo, sobre o que a empresa faz e onde ela atua ------- serviços para maquinas industriais (assinatura para suporte e implementaçao
+                                                                                                                                                       ,instalaçao, de maquinas)
+
+
+sobre a empresa: 
+
+Requisitos:Foi pensado em um projeto de ERP- Um sistema de gestão da empresa, vocÊ planeja os recursos da empresa, anotar e manter as informações disponiveis para quem tem acesso
+Setor comercial, setor de operação, setor da tecnologia, segurança.
+É uma startup, empresas que desenvolvem tecnologia para o setor de industria. Bebidas, saneamento, transporte ferroviario. Sistema de monitoramento, em tempo real. utilizando a internet das coisas.
+ERP é voltado para a administração da empresa, mais de um sistema
+Empresa de monitoramento em tempo real
+Se alguem tiver algum problema tecnico, um chamado é aberto e alguém da area de TI irá resolve-lo
+Quantos chamados estão pausados, em aberto, que foram fechados.
+Problemas com o ERP atual - Não são orientados a chamados. As pessoas tem dificuldade em guardar seus dados e portanto não trazem informação para a empresa. Não são guardados Logs.
+Sistema de autenticação, somente o admin pode adicionar novos users. Gestor de usuarios. C
+Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar.
+Montar um sistema SLA dentro do ERP. Nao pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado.
+Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com.
+Não terá integração com nenhum sistema da empresa, isolado.
+Não tem uma identidade visual fixa, criar um design pro sistema. LOGO AZUL.
+Acessibilidade é importante, porém deixar para o futuro.
+Criar um banco de dados.
+Criar Somente Web Desktop, De qualquer forma será acessado pelo celular.
+Criaremos os dados ficticios no banco de dados, e botar em facil visualização no dashboard
+Quantidade de chamados abertos, pendentes, expirados e fechados.
+Quais insformações - nome, numero de telefone, numero de chamado, tipo de chamamado, qual departamento
+Tudo dentro da plataforma, nenhum tipo de integração (email)
+Error 500 se não tiver conexão com o servidor.
+Cada cliente terá seu proprio dashboard
+
+
