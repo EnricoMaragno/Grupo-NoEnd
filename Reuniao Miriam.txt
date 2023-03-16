@@ -1,6 +1,6 @@
-Missão: Desenvolver um sistema ERP (Enterprise Resourse Planning), onde iremos criar um sistema voltado para a administração da empresa.
+Missão: Desenvolver um sistema ERP (Enterprise Resourse Planning), onde iremos criar um sistema voltado para a parte administrativa da empresa.
 
-Escopo: Entregar um sistema ERP até o final do período, entregando tudo e somente o que foi.
+Escopo: Entregar um sistema ERP até o final do período, entregando tudo e somente o que foi pedido.
 
 Requisitos funcionais:
 - Criar sistema de login e gerenciamento de usuários.
