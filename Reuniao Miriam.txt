@@ -4,15 +4,17 @@ Escopo: Entregar um sistema ERP até o final do período, entregando tudo e some
 
 Requisitos funcionais:
 
-- Criar sistema de login e gerenciamento de usuários;
+- Criar uma ERP
 
 - Guardar as informações em logs;
 
+- Listagem de clientes;
+
 - Implementação de uma ferramenta para que o cliente abra um chamado diretamente com o setor desejado, setores esses: Setor comercial, setor de operação, setor da tecnologia;
 
-- Saber quantos chamados estão abertos, pausados ou encerrados;
+- Controlar chamados;
 
-- Listagem de clientes;
+- Saber quantos chamados estão abertos, pausados ou encerrados;
 
 - Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar;
 
@@ -24,9 +26,11 @@ Requisitos funcionais:
 
 - Ser interativo e prático;
 
+- Criar sistema de login e gerenciamento de usuários;
+
 Requisitos não funcionais:
 
-- Não terá integração com nenhum sistema da empresa, isolado;
+- Cada cliente terá seu próprio dashboard;
 
 - Não tem uma identidade visual fixa, criar um design pro sistema;
 
@@ -34,7 +38,8 @@ Requisitos não funcionais:
 
 - Criaremos os dados fictícios no banco de dados, e botar em fácil visualização no dashboard;
 
+- Não terá integração com nenhum sistema da empresa, isolado;
+
 - Error 500 se não tiver conexão com o servidor;
 
-- Cada cliente terá seu próprio dashboard;
 
