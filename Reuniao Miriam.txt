@@ -23,3 +23,4 @@ Requisitos não funcionais:
 - Error 500 se não tiver conexão com o servidor.
 - Cada cliente terá seu próprio dashboard.
 - Não botar os verbos no infinitivo
+
