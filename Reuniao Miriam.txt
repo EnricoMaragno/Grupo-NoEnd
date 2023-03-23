@@ -12,8 +12,6 @@ Requisitos funcionais:
 - Montar um sistema SLA dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado.
 - Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com.
 - Informações que o cliente deve dar - nome, número de telefone, número de chamado, tipo de chamado, qual departamento.
-- Registrar os requisitos
-- Registrar a funcionalidade do sistema
 
 Requisitos não funcionais:
 - Não terá integração com nenhum sistema da empresa, isolado.
@@ -22,5 +20,3 @@ Requisitos não funcionais:
 - Criaremos os dados fictícios no banco de dados, e botar em fácil visualização no dashboard.
 - Error 500 se não tiver conexão com o servidor.
 - Cada cliente terá seu próprio dashboard.
-- Não botar os verbos no infinitivo
-
