@@ -4,44 +4,37 @@ Escopo: Entregar um sistema ERP até o final do período, entregando tudo e some
 
 Requisitos funcionais:
 
-- Criar uma ERP
+•	Criar sistema de login e gerenciamento de usuários;
 
-- Guardar as informações em logs;
+•	Guardar as informações em logs;
 
-- Listagem de clientes;
+•	Implementação de uma ferramenta para que o cliente abra um chamado diretamente com o setor desejado, setores esses: Setor comercial, setor de operação, setor da tecnologia;
 
-- Implementação de uma ferramenta para que o cliente abra um chamado diretamente com o setor desejado, setores esses: Setor comercial, setor de operação, setor da tecnologia;
+•	Saber quantos chamados estão abertos, pausados ou encerrados;
 
-- Controlar chamados;
+•	Listagem de clientes;
 
-- Saber quantos chamados estão abertos, pausados ou encerrados;
+•	Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar;
 
-- Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar;
+•	Montar um sistema SLA dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado;
 
-- Montar um sistema SLA dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado;
+•	Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com;
 
-- Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com;
+•	Informações que o cliente deve dar - nome, número de telefone, número de chamado, tipo de chamado, qual departamento;
 
-- Informações que o cliente deve dar - nome, número de telefone, número de chamado, tipo de chamado, qual departamento;
-
-- Ser interativo e prático;
-
-- Criar sistema de login e gerenciamento de usuários;
-
-- Disponibilidade;
+•	Ser interativo e prático;
 
 Requisitos não funcionais:
 
-- Cada cliente terá seu próprio dashboard;
+•	Não terá integração com nenhum sistema da empresa, isolado;
 
-- Não tem uma identidade visual fixa, criar um design pro sistema;
+•	Não tem uma identidade visual fixa, criar um design pro sistema;
 
-- Criar Somente Web Desktop, De qualquer forma será acessado pelo celular;
+•	Criar Somente Web Desktop, De qualquer forma será acessado pelo celular;
 
-- Criaremos os dados fictícios no banco de dados, e botar em fácil visualização no dashboard;
+•	Criaremos os dados fictícios no banco de dados, e botar em fácil visualização no dashboard;
 
-- Não terá integração com nenhum sistema da empresa, isolado;
+•	Error 500 se não tiver conexão com o servidor;
 
-- Error 500 se não tiver conexão com o servidor;
-
+•	Cada cliente terá seu próprio dashboard;
 
