@@ -24,7 +24,7 @@ Requisitos funcionais:
 
 - Ser interativo e prático;
 
-- Criar uma ERP
+- Criar uma ERP;
 
 Requisitos não funcionais:
 
