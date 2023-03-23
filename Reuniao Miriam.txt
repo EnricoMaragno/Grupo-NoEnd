@@ -28,6 +28,8 @@ Requisitos funcionais:
 
 - Criar sistema de login e gerenciamento de usuários;
 
+- Disponibilidade;
+
 Requisitos não funcionais:
 
 - Cada cliente terá seu próprio dashboard;
