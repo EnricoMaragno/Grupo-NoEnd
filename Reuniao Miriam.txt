@@ -26,6 +26,8 @@ Requisitos funcionais:
 
 Requisitos não funcionais:
 
+Sistema deve ser capaz de gerenciar cerca de 10 pessoas simuntaneamente.
+
 •	Não terá integração com nenhum sistema da empresa, isolado;
 
 •	Não tem uma identidade visual fixa, criar um design pro sistema;
