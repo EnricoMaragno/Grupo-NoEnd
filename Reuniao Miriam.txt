@@ -26,15 +26,15 @@ Requisitos funcionais:
 
 Requisitos não funcionais:
 
-•	Não terá integração com nenhum sistema da empresa, isolado;
+•	O ERP criado não terá integração com nenhum outro sistema da empresa, isolado;
 
-•	Não tem uma identidade visual fixa, criar um design pro sistema;
+•	O sistema não tem uma identidade visual fixa, é necessário criar um design pro mesmo;
 
-•	Criar Somente Web Desktop, De qualquer forma será acessado pelo celular;
+•	O sistema deverá suportar principalmente o modelo Web Desktop, mas tambem será possivel ser acessado pelo celular;
 
-•	Criaremos os dados fictícios no banco de dados, e botar em fácil visualização no dashboard;
+•	Nós criaremos um banco de dados fictícios para utilização do sistema, e botar em fácil visualização no dashboard;
 
-•	Error 500 se não tiver conexão com o servidor;
+•	O sistema apresentará o "Error 500" caso não tenha conexão com o servidor;
 
-•	Cada cliente terá seu próprio dashboard;
+•	Dentro do sistema, cada cliente terá seu próprio dashboard;
 
