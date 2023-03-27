@@ -1,4 +1,4 @@
-Missão: Desenvolver um sistema ERP (Enterprise Resourse Planning), onde iremos criar um sistema voltado para a parte administrativa da empresa.
+Missão: Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o usuario possa monitorar os chamados abertos fechados e em espera.
 
 Escopo: Entregar um sistema ERP até o final do período, entregando tudo e somente o que foi pedido.
 
