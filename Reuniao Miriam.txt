@@ -16,7 +16,7 @@ Requisitos funcionais:
 
 •	Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar;
 
-•	Montar um sistema SLA dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado;
+•	Montar um sistema SLA(Em resumo, é um documento que deixa claro todos os termos e obrigações, do contratante e do contratado), dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado;
 
 •	Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com;
 
