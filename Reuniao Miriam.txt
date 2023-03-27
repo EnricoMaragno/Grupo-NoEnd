@@ -26,7 +26,7 @@ Requisitos funcionais:
 
 Requisitos não funcionais:
 
-•	O ERP criado não terá integração com nenhum outro sistema da empresa, isolado;
+•	O Sistema de chamados não terá integração com nenhum outro sistema da empresa, isolado;
 
 •	O sistema não tem uma identidade visual fixa, é necessário criar um design pro mesmo;
 
