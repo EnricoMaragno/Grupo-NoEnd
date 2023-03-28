@@ -38,3 +38,9 @@ Requisitos não funcionais:
 
 •	Cada cliente terá seu próprio dashboard;
 
+
+
+
+nova missao Missão: Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
+
+requisito: Cada usuario deve ter acessos diferentes para cada setor.
