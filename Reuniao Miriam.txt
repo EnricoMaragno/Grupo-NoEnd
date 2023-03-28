@@ -41,6 +41,20 @@ Requisitos não funcionais:
 
 Implementação de uma SLA que consiste em dar suporte aos clientes;
 
+5W2H
+
+Quem: Para funcionários e visitantes do site, que buscam comprar equipamentos industriais e suas ramificações (ramo comercial e operacional da empresa).
+
+Quando: Até o final do semestre letivo, como estipulado pelos orientadores.
+
+Onde: O resultado final deve ser feito com base em um sistema web com o propósito de ser utilizado em computadores.
+
+Como: Este será usado para personalização e edição da parte visual, utilizando as linguagens de JavaScript e React.
+
+Por que: Diante desse cenário, infere-se, portanto, um "upgrade" em relação à ERP apresentada. Nesse sentido, a atual fase da empresa não é orientada às chamadas, gerando um "déficit" no armazenamento de logs destes segmentos, afetado, sobretudo, por esse desacerto na comunicação.
+
+O que: A fim de desenvolver um sistema de chamados eficiente para usuários e funcionários.
+
 O sistema deve utilizar um servidor WEB e agir de forma reativa;
 
 
