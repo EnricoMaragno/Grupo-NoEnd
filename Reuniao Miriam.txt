@@ -40,6 +40,12 @@ Requisitos não funcionais:
 
 Implementação de uma SLA que consiste em dar suporte aos clientes;
 
+O sistema deve utilizar um servidor WEB e agir de forma reativa;
+
+
+
+
+
 
 
 
