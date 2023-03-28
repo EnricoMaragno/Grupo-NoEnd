@@ -1,28 +1,26 @@
-Missão: Desenvolver um sistema ERP (Enterprise Resourse Planning), onde iremos criar um sistema voltado para a parte administrativa da empresa.
+Missão: O sistema deve desenvolver um sistema de gerenciamento de chamados, onde iremos criar um sistema voltado para a parte administrativa da empresa.
 
-Escopo: Entregar um sistema ERP até o final do período, entregando tudo e somente o que foi pedido.
+Escopo: O sistema deve entregar um sistema de gerenciamento de chamados até o final do período, entregando tudo e somente o que foi pedido.
 
 Requisitos funcionais:
 
-•	Criar sistema de login e gerenciamento de usuários;
+•O sistema deve possuir	um sistema de login e gerenciamento de usuários;
 
-•	Guardar as informações em logs;
+•	O sistema irá conter uma ferramenta para que o cliente abra um chamado diretamente com o setor desejado, setores esses: Setor comercial, setor de operação, setor da tecnologia;
 
-•	Implementação de uma ferramenta para que o cliente abra um chamado diretamente com o setor desejado, setores esses: Setor comercial, setor de operação, setor da tecnologia;
+•	O sistema necessita saber quantos chamados estão abertos, pausados ou encerrados;
 
-•	Saber quantos chamados estão abertos, pausados ou encerrados;
-
-•	Listagem de clientes;
+• Deve possuir listagem de clientes;
 
 •	Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar;
 
 •	Montar um sistema SLA(Em resumo, é um documento que deixa claro todos os termos e obrigações, do contratante e do contratado), dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado;
 
-•	Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com;
+•	Tem de possuir uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com;
 
-•	Informações que o cliente deve dar - nome, número de telefone, número de chamado, tipo de chamado, qual departamento;
+•	O sistema deve ser interativo e prático;
 
-•	Ser interativo e prático;
+. Utilização de cartões com a situação de cada chamada dos clientes;
 
 Requisitos não funcionais:
 
@@ -37,4 +35,6 @@ Requisitos não funcionais:
 •	Error 500 se não tiver conexão com o servidor;
 
 •	Cada cliente terá seu próprio dashboard;
+
+•	Informações que o cliente deve dar - nome, número de telefone, número de chamado, tipo de chamado, qual departamento;
 
