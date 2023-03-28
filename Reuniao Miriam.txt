@@ -39,6 +39,11 @@ Requisitos não funcionais:
 •	Cada cliente terá seu próprio dashboard;
 
 
+Implementação de uma SLA que consiste em dar suporte aos clientes;
+
+O sistema deve utilizar um servidor WEB e agir de forma reativa;
+
+
 
 
 nova missao Missão: Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
