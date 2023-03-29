@@ -1,46 +1,42 @@
-Missão: Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
+# Missão
 
-Escopo: Entregar um sistema ERP até o final do período, entregando tudo e somente o que foi pedido.
+* Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
 
-Requisitos funcionais:
+# Quem ira utilizar?
 
-Cada usuario deve ter acessos diferentes para cada setor.
+1- Funcionarios, podem abrir chamados internos, vão monitorar os chamdos, respondendo e encaminhando informações para os clientes.
 
-•	Criar sistema de login e gerenciamento de usuários;
+2- Clientes, podem abrir chamados externos e capacidade de acompanhar os chamados em andamento.
 
-•	Guardar as informações em logs;
+# Onde?
 
-•	Implementação de uma ferramenta para que o cliente abra um chamado diretamente com o setor desejado, setores esses: Setor comercial, setor de operação, setor da tecnologia;
+* O resultado final deve ser feito com base em um sistema web com o propósito de ser utilizado em computadores.
 
-•	Saber quantos chamados estão abertos, pausados ou encerrados;
+# Por que?
 
-•	Listagem de clientes;
+* Para que ocorra de maneira mais fácil a comunicação entre a empresa e o cliente, possibilitando responder os clientes mais rapidamente.
 
-•	Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar;
+# Requisitos funcionais:
+```
+1- O software deve controlar a quantidade de chamados abertos, concluidos ou em andamento.
 
-•	Montar um sistema SLA(Em resumo, é um documento que deixa claro todos os termos e obrigações, do contratante e do contratado), dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado;
+2- O sistema guardará os sistemas em logs.
 
-•	Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com;
+3- O sistema deve ter uma listagem com clientes cadastrados.
 
-•	Informações que o cliente deve dar - nome, número de telefone, número de chamado, tipo de chamado, qual departamento;
+4- O sistema não podera ser desligado, tem que funcionar 24h por dia.
 
-•	Ser interativo e prático;
+5- Error 500 se não tiver conexão com o servidor.
+```
+# Requisitos não funcionais
+```
+1- O software deve ser desenvolvido para WEB.
 
-Requisitos não funcionais:
+2- Não tera integração com nenhum outro sistema da empresa.
 
+3- O sistema deve ser capaz de gerenciar cerca de 10 usuarios simultaneamente.
 
+4- O sistema deve ser responsivo.
 
-Sistema deve ser capaz de gerenciar cerca de 10 pessoas simuntaneamente.
-
-•	Não terá integração com nenhum sistema da empresa, isolado;
-
-•	Não tem uma identidade visual fixa, criar um design pro sistema;
-
-•	Criar Somente Web Desktop, De qualquer forma será acessado pelo celular;
-
-•	Criaremos os dados fictícios no banco de dados, e botar em fácil visualização no dashboard;
-
-•	Error 500 se não tiver conexão com o servidor;
-
-•	Cada cliente terá seu próprio dashboard;
-
+5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
+```
