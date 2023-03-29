@@ -1,65 +1,42 @@
-Missão: Desenvolver um sistema ERP (Enterprise Resourse Planning), onde iremos criar um sistema voltado para a parte administrativa da empresa.
+# Missão
 
-Escopo: Entregar um sistema ERP até o final do período, entregando tudo e somente o que foi pedido.
+* Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
 
-Requisitos funcionais:
+# Quem ira utilizar?
 
-•	Criar sistema de login e gerenciamento de usuários;
+1- Funcionarios, podem abrir chamados internos, vão monitorar os chamdos, respondendo e encaminhando informações para os clientes.
 
-•	Guardar as informações em logs;
+2- Clientes, podem abrir chamados externos e capacidade de acompanhar os chamados em andamento.
 
-•	Implementação de uma ferramenta para que o cliente abra um chamado diretamente com o setor desejado, setores esses: Setor comercial, setor de operação, setor da tecnologia;
+# Onde?
 
-•	Saber quantos chamados estão abertos, pausados ou encerrados;
+* O resultado final deve ser feito com base em um sistema web com o propósito de ser utilizado em computadores.
 
-•	Listagem de clientes;
+# Por que?
 
-•	Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar;
+* Para que ocorra de maneira mais fácil a comunicação entre a empresa e o cliente, possibilitando responder os clientes mais rapidamente.
 
-•	Montar um sistema SLA(Em resumo, é um documento que deixa claro todos os termos e obrigações, do contratante e do contratado), dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado;
+# Requisitos funcionais:
+```
+1- O software deve controlar a quantidade de chamados abertos, concluidos ou em andamento.
 
-•	Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com;
+2- O sistema guardará os sistemas em logs.
 
-•	Informações que o cliente deve dar - nome, número de telefone, número de chamado, tipo de chamado, qual departamento;
+3- O sistema deve ter uma listagem com clientes cadastrados.
 
-•	Ser interativo e prático;
+4- O sistema não podera ser desligado, tem que funcionar 24h por dia.
 
-Requisitos não funcionais:
+5- Error 500 se não tiver conexão com o servidor.
+```
+# Requisitos não funcionais
+```
+1- O software deve ser desenvolvido para WEB.
 
-•	Não terá integração com nenhum sistema da empresa, isolado;
+2- Não tera integração com nenhum outro sistema da empresa.
 
-•	Não tem uma identidade visual fixa, criar um design pro sistema;
+3- O sistema deve ser capaz de gerenciar cerca de 10 usuarios simultaneamente.
 
-•	Criar Somente Web Desktop, De qualquer forma será acessado pelo celular;
+4- O sistema deve ser responsivo.
 
-•	Criaremos os dados fictícios no banco de dados, e botar em fácil visualização no dashboard;
-
-•	Error 500 se não tiver conexão com o servidor;
-
-•	Cada cliente terá seu próprio dashboard;
-
-
-Implementação de uma SLA que consiste em dar suporte aos clientes;
-
-5W2H
-
-Quem: Para funcionários e visitantes do site, que buscam comprar equipamentos industriais e suas ramificações (ramo comercial e operacional da empresa).
-
-Quando: Até o final do semestre letivo, como estipulado pelos orientadores.
-
-Onde: O resultado final deve ser feito com base em um sistema web com o propósito de ser utilizado em computadores.
-
-Como: Este será usado para personalização e edição da parte visual, utilizando as linguagens de JavaScript e React.
-
-Por que: Diante desse cenário, infere-se, portanto, um "upgrade" em relação à ERP apresentada. Nesse sentido, a atual fase da empresa não é orientada às chamadas, gerando um "déficit" no armazenamento de logs destes segmentos, afetado, sobretudo, por esse desacerto na comunicação.
-
-O que: A fim de desenvolver um sistema de chamados eficiente para usuários e funcionários.
-
-O sistema deve utilizar um servidor WEB e agir de forma reativa;
-
-
-
-
-nova missao Missão: Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
-
-requisito: Cada usuario deve ter acessos diferentes para cada setor.
+5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
+```
