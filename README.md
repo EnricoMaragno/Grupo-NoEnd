@@ -2,7 +2,7 @@
 
 * Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
 
-# Quem ira utilizar?
+# Quem irá utilizar?
 
 1- Funcionarios, podem abrir chamados internos, vão monitorar os chamdos, respondendo e encaminhando informações para os clientes.
 
