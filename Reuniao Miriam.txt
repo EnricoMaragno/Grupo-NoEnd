@@ -2,6 +2,28 @@ Missão: Desenvolver um sistema ERP (Enterprise Resourse Planning), onde iremos 
 
 Escopo: Entregar um sistema ERP até o final do período, entregando tudo e somente o que foi pedido.
 
+1 - O que?
+R: Desenvolver um sistema ERP (Enterprise Resourse Planning), criando um sistema voltado para a parte administrativa da empresa
+
+2- Quem irá utilizar?
+
+R: Clientes e funcionários, que poderão abrir chamados internos, monitorando-os, respondendo e encaminhando informações para os clientes.
+
+  *Clientes, podem abrir chamados externos e capacidade de acompanhar os chamados em andamento.
+
+3- Onde?
+
+R: O resultado final deve ser feito com base em um sistema web com o propósito de ser utilizado em computadores.
+
+4- Por que?
+
+R: Para que ocorra de maneira mais fácil a comunicação entre a empresa e o cliente, possibilitando responder os clientes mais rapidamente.
+
+5- Quando?
+
+R: Até o final do período de Desenvolvimento Web.
+
+
 Requisitos funcionais:
 
 •	Criar sistema de login e gerenciamento de usuários;
