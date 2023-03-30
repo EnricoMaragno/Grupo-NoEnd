@@ -42,6 +42,12 @@ Implementação de uma SLA que consiste em dar suporte aos clientes;
 
 O sistema deve utilizar um servidor WEB e agir de forma reativa;
 
+O sistema deve ser feito para a Web e agir de forma responsiva;
+
+O sistema deve utilizar um servidor Web,como servidor Apacher;
+
+O sistema deve ser implementado em ReactUS,framaework de JavaScript;
+
 
 
 
