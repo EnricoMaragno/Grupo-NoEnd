@@ -10,7 +10,7 @@
 
 # Onde?
 
-* O resultado final deve ser feito com base em um sistema web com o propósito de ser utilizado em computadores.
+* Para melhoria do sistema atual da empresa, que no momento não é orientada a chamdos, dificultando a comunicação com o cliente e entre os setores da empresa.
 
 # Por que?
 
@@ -28,17 +28,17 @@
 
 - O sistema deve armazenar informações como nome, tipo de chamado, número de celular.
 
+- Apenas usuarios do setor de tecnologia tem a permissao para cadastrar novos usuarios.
+
 3- O sistema guardará os sistemas em logs.
 
 4- O sistema deve ter uma listagem com clientes cadastrados.
-
-5- O sistema não podera ser desligado, tem que funcionar 24h por dia.
 
 6- Error 500 se não tiver conexão com o servidor.
 ```
 # Requisitos não funcionais
 ```
-1- O software deve ser desenvolvido para WEB.
+1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular.
 
 2- Não tera integração com nenhum outro sistema da empresa.
 
@@ -47,4 +47,6 @@
 4- O sistema deve ser responsivo.
 
 5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
+
+6- O sistema deve ser desenvolvido em ReactJS.
 ```
