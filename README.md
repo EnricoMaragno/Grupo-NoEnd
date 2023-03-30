@@ -34,7 +34,7 @@
 
 2- Não tera integração com nenhum outro sistema da empresa.
 
-3- O sistema deve ser capaz de gerenciar cerca de 10 usuarios simultaneamente.
+3- O sistema deve ser capaz de gerenciar cerca de 7 usuarios simultaneamente.
 
 4- O sistema deve ser responsivo.
 
