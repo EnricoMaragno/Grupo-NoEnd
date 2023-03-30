@@ -32,7 +32,7 @@ Requisitos não funcionais:
 
 •	O sistema deverá suportar principalmente o modelo Web Desktop, mas tambem será possivel ser acessado pelo celular;
 
-•	Nós criaremos um banco de dados fictícios para utilização do sistema, e botar em fácil visualização no dashboard;
+•	Nós criaremos um banco de dados fictícios para utilização do sistema, e implementaremos uma visualização fácil e prática do dashboard;
 
 •	O sistema apresentará o "Error 500" caso não tenha conexão com o servidor;
 
