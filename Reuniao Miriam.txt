@@ -18,15 +18,23 @@
 
 # Requisitos funcionais:
 ```
-1- O software deve controlar a quantidade de chamados abertos, concluidos ou em andamento.
+1- O software deve controlar e classificar a quantidade de chamados abertos, concluidos ou em andamento.
 
-2- O sistema guardará os sistemas em logs.
+2- O sistema deve possuir um prazo para para o chamado continuar aberto.
 
-3- O sistema deve ter uma listagem com clientes cadastrados.
+- O sistema deve possuir um dashboard para cada departamento.
 
-4- O sistema não podera ser desligado, tem que funcionar 24h por dia.
+- O sistema deve possuir uma área de chamados internos para comunicação entre os departamentos.
 
-5- Error 500 se não tiver conexão com o servidor.
+- O sistema deve armazenar informações como nome, tipo de chamado, número de celular.
+
+3- O sistema guardará os sistemas em logs.
+
+4- O sistema deve ter uma listagem com clientes cadastrados.
+
+5- O sistema não podera ser desligado, tem que funcionar 24h por dia.
+
+6- Error 500 se não tiver conexão com o servidor.
 ```
 # Requisitos não funcionais
 ```
