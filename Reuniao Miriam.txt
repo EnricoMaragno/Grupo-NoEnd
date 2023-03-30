@@ -35,6 +35,8 @@
 8- O sistema deve ter uma listagem com clientes cadastrados.
 
 9- Error 500 se não tiver conexão com o servidor.
+
+10- O sistema deve separar os chamados pelo nível critico deles.
 ```
 # Requisitos não funcionais
 ```
