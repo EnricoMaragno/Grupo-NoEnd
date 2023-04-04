@@ -51,4 +51,6 @@
 5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
 
 6- O sistema deve ser desenvolvido em ReactJS.
+
+7-O chamado deve possuir o gênero de quem abriu o chamado.
 ```
