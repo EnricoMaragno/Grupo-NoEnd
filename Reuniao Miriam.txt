@@ -20,7 +20,7 @@
 ```
 1- O sistema deve possuir um autenticador de cadastro.
 
-2- O sistemas deve possuir uma interface amigavel para os usuarios.
+2- Deve possuir um botão para iniciar o chamado.
 
 3- O software deve controlar e classificar a quantidade de chamados abertos, concluidos ou em andamento.
 
