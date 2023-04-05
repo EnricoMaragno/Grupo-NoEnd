@@ -48,6 +48,20 @@ O sistema deve utilizar um servidor Web,como servidor Apacher;
 
 O sistema deve ser implementado em ReactUS,framaework de JavaScript;
 
+Perguntas Miriam:
+
+- A interface do software precisa ser, necessariamente, amigável?
+
+- Quem vai manusear o software? O cliente ou um funcionário?
+Ex: O cliente abriria o chamado para o funcionário? Ou vice-versa?
+
+- O que aconteceria se tivessem mais de 7 pessoas interagindo com o software? Nós colocaríamos o site com uma fila de espera?
+
+
+Sobre usuários e permissões, quais permissões terão os usuários de casa setor?
+
+
+
 
 
 
