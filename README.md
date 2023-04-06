@@ -1,7 +1,9 @@
-Missão: O sistema tem como objetivo gerenciar os chamados.
+ # Missão: 
+ O sistema tem como objetivo gerenciar os chamados.
 
 
-Cliente: Empresa que atua na áerea de tecnologia destinada a área industrial(comentado na reunião)
+# Cliente: 
+Empresa que atua na áerea de tecnologia destinada a área industrial(comentado na reunião)
 
 
 # Requisitos funcionais:(adicionar mais)
@@ -40,7 +42,7 @@ Cliente: Empresa que atua na áerea de tecnologia destinada a área industrial(c
 6- O sistema deve ser desenvolvido em ReactJS
 
 
-5W2H
+# 5W2H
 
 O que?:O sistema deve ter controle sob os chamados que a empresa recebe;
 
