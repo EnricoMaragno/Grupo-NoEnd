@@ -1,58 +1,65 @@
-"branch_luis" Trabalho
+Missão: O sistema tem como objetivo criar um sistema para abertura e deve gerenciar os chamados.
 
-Missão: Desenvolver um sistema ERP (Enterprise Resourse Planning), onde iremos criar um sistema voltado para a parte administrativa da empresa.
 
-Escopo: Entregar um sistema ERP até o final do período, entregando tudo e somente o que foi pedido.
+Cliente: Empresa que atua na áerea de tecnologia destinada a área industrial(comentado na reunião)
 
-Requisitos funcionais:
 
-•	Criar sistema de login e gerenciamento de usuários;
+Requisitos funcionais:(adicionar mais)
 
-•	Guardar as informações em logs;
+1- O sistema deve gerenciar os chamados que são efetuados em tempo real que são recebidos pela empresa;
 
-•	Implementação de uma ferramenta para que o cliente abra um chamado diretamente com o setor desejado, setores esses: Setor comercial, setor de operação, setor da tecnologia;
+2- O sistema deve mostrar a situação em que os chamados se encontram;
 
-•	Saber quantos chamados estão abertos, pausados ou encerrados;
+3- O sistema deve ter um recurso em que ele próprio deve identificar os casos de acordo com  "gravidade" dele;
 
-•	Listagem de clientes;
+4- O sistema deve possuir um dashboard para cada departamento.
 
-•	Chamado interno - apenas aquele departamento pode visualizar/ Chamado Externo - todos os departamentos conseguem visualizar;
+5- O sistema deve possuir uma área de chamados internos para comunicação entre os departamentos;
 
-•	Montar um sistema SLA(Em resumo, é um documento que deixa claro todos os termos e obrigações, do contratante e do contratado), dentro do ERP. Não pode demorar mais de 30 min para atender, se demorar mais de 30 min terá o SLA expirado;(repensar nesta para ver se esta realmente de acordo)
+5- O sistema deve armazenar informações como nome, tipo de chamado, número de celular;
 
-•	Criar uma tela de abertura de chamado, que pode ser acessado por pessoas sem autenticação ou com;
+6- O sistema deve emitir um relátorio dos usuários ;
 
-•	Informações que o cliente deve dar - nome, número de telefone, número de chamado, tipo de chamado, qual departamento;
+7- O sistema deve controlar o número de chamados;
 
-•	Ser interativo e prático;
+8- O sistema deve contabilizar o número de chamados;
 
-Requisitos não funcionais:
 
-•	Não terá integração com nenhum sistema da empresa, isolado;
+# Requisitos não funcionais:
 
-•	Não tem uma identidade visual fixa, criar um design pro sistema;
+1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular.
 
-•	Criar Somente Web Desktop, De qualquer forma será acessado pelo celular;
+2- Não tera integração com nenhum outro sistema da empresa.
 
-•	Criaremos os dados fictícios no banco de dados, e botar em fácil visualização no dashboard;
+3- O sistema deve ser capaz de gerenciar cerca de 10 usuarios simultaneamente.
 
-•	Error 500 se não tiver conexão com o servidor;
+4- O sistema deve ser responsivo.
 
-•	Cada cliente terá seu próprio dashboard;
+5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
 
-Implementação de uma SLA que consiste em dar suporte aos clientes;
+6- O sistema deve ser desenvolvido em ReactJS
 
-O sistema deve utilizar um servidor WEB e agir de forma reativa;
 
-O sistema deve ser feito para a Web e agir de forma responsiva;
+5W2H
 
-O sistema deve utilizar um servidor Web,como servidor Apacher;
+O que?:O sistema deve ter controle sob os chamados que a empresa recebe;
 
-O sistema deve ser implementado em ReactUS,framaework de JavaScript;
+Quem?:Os usuários como também os trabalhadores da própria empresa
+
+Porque?: O sistema vai funcionar como um facilitador para a empresa controlar as informações recebidas;
+
+Como?: O sistema irá administrar a quantia de chamados e sua procedencia além de criar um dashboard com tais informações;
+
+Onde?: Via WEB, com "suporte" para navegadores no Desktop e mobile
+
+Quando?: Deverá ser finalizado no primeiro semestre de 2023;
+
+Quanto?: Não haverá financero, apenas com equipe se dedicando;
+
+
+
 
 Perguntas Miriam:
-
-- A interface do software precisa ser, necessariamente, amigável?
 
 - Quem vai manusear o software? O cliente ou um funcionário?
 Ex: O cliente abriria o chamado para o funcionário? Ou vice-versa?
