@@ -8,7 +8,7 @@ Empresa que atua na áerea de tecnologia destinada a área industrial(comentado 
 
 # Requisitos funcionais:(adicionar mais)
 
-1- O sistema deve gerenciar os chamados que são efetuados que são recebidos pela empresa;
+1- O sistema deve gerenciar os chamados que são recebidos pela empresa;
 
 2- O sistema deve mostrar a situação em que os chamados se encontram;(ajeitar)
 
