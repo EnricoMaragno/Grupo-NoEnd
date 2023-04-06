@@ -1,14 +1,14 @@
-Missão: O sistema tem como objetivo criar um sistema para abertura e deve gerenciar os chamados.
+Missão: O sistema tem como objetivo gerenciar os chamados.
 
 
 Cliente: Empresa que atua na áerea de tecnologia destinada a área industrial(comentado na reunião)
 
 
-Requisitos funcionais:(adicionar mais)
+# Requisitos funcionais:(adicionar mais)
 
-1- O sistema deve gerenciar os chamados que são efetuados em tempo real que são recebidos pela empresa;
+1- O sistema deve gerenciar os chamados que são efetuados que são recebidos pela empresa;
 
-2- O sistema deve mostrar a situação em que os chamados se encontram;
+2- O sistema deve mostrar a situação em que os chamados se encontram;(ajeitar)
 
 3- O sistema deve ter um recurso em que ele próprio deve identificar os casos de acordo com  "gravidade" dele;
 
