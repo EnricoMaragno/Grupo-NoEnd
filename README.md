@@ -40,7 +40,7 @@
   
   4- O sistema deve possuir uma área de chamados internos para comunicação entre os departamentos.
   
-  5- O sistema deve armazenar informações como nome, tipo de chamado, número de celular.
+  5- O sistema deve armazenar informações como nome do usuário, tipo de chamado, número de celular.
   
   6- O sistema deve separar os chamados pelo nível critico deles. (Critico, alto, medio, baixo)
   
