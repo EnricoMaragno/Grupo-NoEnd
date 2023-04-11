@@ -69,7 +69,7 @@
 11- Error 500 se não tiver conexão com o servidor.
 
 12- O sistema deve separar os chamados pelo nível critico deles.
-```
+
 # Requisitos não funcionais
 ```
 1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular.
