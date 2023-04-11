@@ -34,7 +34,7 @@
   
   2- O sistema deve possuir um botão para abrir chamados na interface principal.
   
-  3- O sistema deve possuir um prazo pré determinado para que o chamado continue aberto. Depende da categoria de chamado, problema-30min, agendado-48h.
+  3- O sistema deve possuir um prazo pré determinado para que o chamado continue aberto. Depende da categoria de chamado, problemas em 30min, agendados em 48h.
   
   4- O sistema deve possuir uma área de chamados internos para comunicação entre os departamentos.
   
@@ -71,7 +71,7 @@
 12- O sistema deve separar os chamados pelo nível critico deles.
 
 # Requisitos não funcionais
-```
+
 1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular.
 
 2- Não tera integração com nenhum outro sistema da empresa.
@@ -85,4 +85,4 @@
 6- O sistema deve ser desenvolvido em ReactJS.
 
 7- Quando o servidor ficar indisponivel deve ter um timeout.
-```
+
