@@ -1,22 +1,27 @@
 # Missão
 
-* Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
+* O sistema tem como objetivo gerenciar e organizar os chamados internos e externos da empresa.
 
 # Quem irá utilizar?
 
-* Qualquer pessoa que tenha a ERP, no qual as pessoas se comuniquem via chamado. Para tanto, se qualquer integrante do departamento comercial estiver tendo entraves, irá acionar o ERP pelo seu dispositivo "mobile" ou fixo, e assim, será direcionado ao dashboard geral. Dessa forma, dependendo de como o usuário maneja o software, este poderá categorizar o chamado após ter sido solicitado. Logo, após ter sido requisitado pelo departamento de TI, os prórprios funcionários abririam os chamados.
+* Qualquer pessoa que tiver acesso ao Software, no qual as pessoas se comunicam via chamado. Para tanto, se qualquer integrante do departamento comercial etiver tendo entraves, irá acionar o software pelo seu dispostivo "mobile" ou fixo, e assim, será direcionado ao dashboard geral. Dessa forma, dependendo de como o usuário maneja o software, este poderá categorizar o chamado após ter sido solicitado. Logo, após ter sido requisitado pelo departamento de TI, os próprios funcionários abririam chamado.
 
 # Onde?
 
-* Para melhoria do sistema atual da empresa, que no momento não é orientada a chamdos, dificultando a comunicação com o cliente e entre os setores da empresa.
+O sistema deve funcionar tanto em computadores como em dispositivos móveis.
 
 # Por que?
 
 * Para que ocorra de maneira mais fácil a comunicação entre a empresa e o cliente, possibilitando responder os clientes mais rapidamente.
 
+# Quem?
+
+* Empresa Microméros Tecnologias que atua no setor industrial. A empresa fornece a infraestrutura, a instalação e a manutenção dos sensores, e fornece relatorios com os dados coletados, por meio de gráficos, telas e dashboards. A Microméros atua no meio industrial, atendendo fábricas, transportadoras, etc.
+
 # Requisitos funcionais:
 
 ## Login e Cadastro de usuários.
+
   1- O sistema deve possuir um autenticador de cadastro.
   
   2- O sistema deve possuir um login e senha diferente para cada usuário de cada departamento.
