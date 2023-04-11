@@ -4,9 +4,7 @@
 
 # Quem ira utilizar?
 
-1- Funcionarios, podem abrir chamados internos, vão monitorar os chamdos, respondendo e encaminhando informações para os clientes.
-
-2- Clientes, podem abrir chamados externos e capacidade de acompanhar os chamados em andamento.
+1- Somente funcionários poderão utilizar o sistema, eles que vão abrir os chamados.
 
 # Onde?
 
@@ -67,8 +65,6 @@
 
 
 11- Error 500 se não tiver conexão com o servidor.
-
-12- O sistema deve separar os chamados pelo nível critico deles.
 
 # Requisitos não funcionais
 
