@@ -31,7 +31,7 @@
   5- O sitema deve exigir email corporativo e senha para logar.
 ```
 ## Interface de chamados.
-```
+
   1- O sistema deve possuir uma interface que mostre os chamados abertos, concluidos e em espera.
   
   2- O sistema deve possuir um botão para abrir chamados na interface principal.
@@ -47,7 +47,7 @@
   7- O sistema deve possuir um dashboard para cada departamento, depensendo do seu nível de acesso.
   
   8- O sistema deve possuir a descriçlão do chamado, por título, nível critico e o departamento que abriu o chamado.
-```
+
 
 
 
