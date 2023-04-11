@@ -4,9 +4,7 @@
 
 # Quem ira utilizar?
 
-1- Funcionarios, podem abrir chamados internos, vão monitorar os chamdos, respondendo e encaminhando informações para os clientes.
-
-2- Clientes, podem abrir chamados externos e capacidade de acompanhar os chamados em andamento.
+* Qualquer pessoa que tiver acesso à ERP, no qual as pessoas se comunicam via chamado. Para tanto, se qualquer integrante do departamento comercial etiver tendo entraves, irá acionar o software pelo seu dispostivo "mobile" ou fixo, e assim, será direcionado ao dashboard geral. Dessa forma, dependendo de como o usuário maneja o software, este poderá categorizar o chamado após ter sido solicitado. Logo, após ter sido requisitado pelo departamento de TI, os próprios funcionários abririam chamado.
 
 # Onde?
 
@@ -40,7 +38,7 @@
   
   4- O sistema deve possuir uma área de chamados internos para comunicação entre os departamentos.
   
-  5- O sistema deve armazenar informações como nome do usuário, tipo de chamado, número de celular.
+  5- O sistema deve armazenar informações como nome, tipo de chamado, número de celular.
   
   6- O sistema deve separar os chamados pelo nível critico deles. (Critico, alto, medio, baixo)
   
