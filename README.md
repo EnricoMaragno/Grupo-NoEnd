@@ -19,6 +19,7 @@
 # Requisitos funcionais:
 
 ## Login e Cadastro de usuários.
+```
   1- O sistema deve possuir um autenticador de cadastro.
   
   2- O sistema deve possuir um login e senha diferente para cada usuário de cada departamento.
@@ -28,8 +29,9 @@
   4- O sistema deve ter uma listagem com clientes cadastrados.
   
   5- O sitema deve exigir email corporativo e senha para logar.
-
+```
 ## Interface de chamados.
+```
   1- O sistema deve possuir uma interface que mostre os chamados abertos, concluidos e em espera.
   
   2- O sistema deve possuir um botão para abrir chamados na interface principal.
@@ -45,7 +47,7 @@
   7- O sistema deve possuir um dashboard para cada departamento, depensendo do seu nível de acesso.
   
   8- O sistema deve possuir a descriçlão do chamado, por título, nível critico e o departamento que abriu o chamado.
-  
+```
 
 
 
