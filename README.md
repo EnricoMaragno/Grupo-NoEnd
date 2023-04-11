@@ -65,3 +65,4 @@ O sistema deve funcionar tanto em computadores como em dispositivos móveis.
 6- O sistema deve ser desenvolvido em ReactJS.
 
 
+
