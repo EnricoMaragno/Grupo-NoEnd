@@ -1,6 +1,6 @@
 # Missão
 
-* Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
+* O sistema tem como objetivo gerenciar e organizar os chamados internos e externos da empresa.
 
 # Quem irá utilizar?
 
@@ -8,11 +8,15 @@
 
 # Onde?
 
-* Para melhoria do sistema atual da empresa, que no momento não é orientada a chamdos, dificultando a comunicação com o cliente e entre os setores da empresa.
+O sistema deve funcionar tanto em computadores como em dispositivos móveis.
 
 # Por que?
 
 * Para que ocorra de maneira mais fácil a comunicação entre a empresa e o cliente, possibilitando responder os clientes mais rapidamente.
+
+# Quem?
+
+Empresa Microméros Tecnologias que atua no setor industrial. A empresa fornece a infraestrutura, a instalação e a manutenção dos sensores, e fornece relatorios com os dados coletados, por meio de gráficos, telas e dashboards. A Microméros atua no meio industrial, atendendo fábricas, transportadoras, etc.
 
 # Requisitos funcionais:
 
