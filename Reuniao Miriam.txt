@@ -2,11 +2,9 @@
 
 * Desenvolver um sistema de gerenciamento de chamados, voltado para a parte administrativa da empresa, onde o funcionario possa monitorar os chamados abertos fechados e em espera.
 
-# Quem ira utilizar?
+# Quem irá utilizar?
 
-1- Funcionarios, podem abrir chamados internos, vão monitorar os chamdos, respondendo e encaminhando informações para os clientes.
-
-2- Clientes, podem abrir chamados externos e capacidade de acompanhar os chamados em andamento.
+* Qualquer pessoa que tenha a ERP, no qual as pessoas se comuniquem via chamado. Para tanto, se qualquer integrante do departamento comercial estiver tendo entraves, irá acionar o ERP pelo seu dispositivo "mobile" ou fixo, e assim, será direcionado ao dashboard geral. Dessa forma, dependendo de como o usuário maneja o software, este poderá categorizar o chamado após ter sido solicitado. Logo, após ter sido requisitado pelo departamento de TI, os prórprios funcionários abririam os chamados.
 
 # Onde?
 
