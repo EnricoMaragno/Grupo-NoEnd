@@ -51,7 +51,7 @@ O sistema deve funcionar tanto em computadores como em dispositivos móveis.
   8- O sistema deve possuir a descriçlão do chamado, por título, nível critico e o departamento que abriu o chamado.
 
 # Requisitos não funcionais
-```
+
 1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular.
 
 2- Não tera integração com nenhum outro sistema da empresa.
@@ -64,5 +64,3 @@ O sistema deve funcionar tanto em computadores como em dispositivos móveis.
 
 6- O sistema deve ser desenvolvido em ReactJS.
 
-7- Quando o servidor ficar indisponivel deve ter um timeout.
-```
