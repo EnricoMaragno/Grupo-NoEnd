@@ -30,7 +30,7 @@ O sistema deve funcionar tanto em computadores como em dispositivos móveis.
   
   4- O sistema deve ter uma listagem com clientes cadastrados.
   
-  5- O sitema deve exigir email corporativo e senha para logar.
+  5- O sistema deve possuir uma tela de login apenas com campos para por email corporativo e senha, e um botao para entrar.
   
 ## Interface de chamados.
 
@@ -52,15 +52,15 @@ O sistema deve funcionar tanto em computadores como em dispositivos móveis.
 
 # Requisitos não funcionais
 
-1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular.
+  1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular.
 
-2- Não tera integração com nenhum outro sistema da empresa.
+  2- Não tera integração com nenhum outro sistema da empresa.
 
-3- O sistema deve ser capaz de gerenciar cerca de 10 usuarios simultaneamente.
+  3- O sistema deve ser capaz de gerenciar cerca de 7 usuarios simultaneamente.
 
-4- O sistema deve ser responsivo.
+  4- O sistema deve ser responsivo.
 
-5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
+  5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
 
-6- O sistema deve ser desenvolvido em ReactJS.
+  6- O sistema deve ser desenvolvido em ReactJS.
 
