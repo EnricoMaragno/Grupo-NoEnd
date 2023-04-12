@@ -36,45 +36,45 @@
 
 ## Login e Cadastro de usuários.
 
-  1- O sistema deve possuir um autenticador de cadastro;
+  1- O sistema deve possuir um autenticador de cadastro.
   
-  2- O sistema deve possuir um login e senha diferente para cada usuário de cada departamento;
+  2- O sistema deve possuir um login e senha diferente para cada usuário de cada departamento.
   
-  3- Apenas usuários do setor de tecnologia tem a permissão para cadastrar novos usuários;
+  3- Apenas usuários do setor de tecnologia tem a permissão para cadastrar novos usuários.
   
-  4- O sistema deve ter uma listagem com clientes cadastrados;
+  4- O sistema deve ter uma listagem com clientes cadastrados.
   
   5- O sistema deve possuir uma tela de login apenas com campos para por email corporativo e senha, e um botao para entrar.
   
 ## Interface de chamados
 
-  1- O sistema deve possuir uma interface que mostre os chamados abertos, concluidos e em espera;
+  1- O sistema deve possuir uma interface que mostre os chamados abertos, concluidos e em espera.
   
-  2- O sistema deve possuir um botão para abrir chamados na interface principal;
+  2- O sistema deve possuir um botão para abrir chamados na interface principal.
   
-  3- O sistema deve possuir um prazo pré determinado para que o chamado continue aberto. Depende da categoria de chamado, problemas em 30min, agendados em 48h;
+  3- O sistema deve possuir um prazo pré determinado para que o chamado continue aberto. Depende da categoria de chamado, problemas em 30min, agendados em 48h.
   
-  4- O sistema deve possuir uma área de chamados internos para comunicação entre os departamentos;
+  4- O sistema deve possuir uma área de chamados internos para comunicação entre os departamentos.
   
-  5- O sistema deve armazenar as seguintes informações dos chamados: nome do usuário que abriu o chamado, número de celular, email, motivo do chamado;
+  5- O sistema deve armazenar as seguintes informações dos chamados: nome do usuário que abriu o chamado, número de celular, email, motivo do chamado.
   
-  6- O sistema deve separar os chamados pelo nível critico deles. (Critico, alto, medio, baixo);
+  6- O sistema deve separar os chamados pelo nível critico deles. (Critico, alto, medio, baixo).
   
-  7- O sistema deve possuir um dashboard para cada departamento, depensendo do seu nível de acesso;
+  7- O sistema deve possuir um dashboard para cada departamento, depensendo do seu nível de acesso.
   
-  8- O sistema deve possuir a descriçlão do chamado, por título, nível crítico e o departamento que abriu o chamado;
+  8- O sistema deve possuir a descriçlão do chamado, por título, nível crítico e o departamento que abriu o chamado.
 
 # Requisitos não funcionais
 
-  1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular;
+  1- O software deve ser desenvolvido para WEB, podendo ser utilizado no celular.
 
-  2- Não ter integração com nenhum outro sistema da empresa;
+  2- Não ter integração com nenhum outro sistema da empresa.
 
-  3- O sistema deve ser capaz de gerenciar cerca de 7 usuários simultaneamente;
+  3- O sistema deve ser capaz de gerenciar cerca de 7 usuários simultaneamente.
 
-  4- O sistema deve ser responsivo;
+  4- O sistema deve ser responsivo.
 
-  5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação;
+  5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
 
   6- O sistema deve ser desenvolvido em ReactJS.
   
