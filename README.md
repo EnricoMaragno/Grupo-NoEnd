@@ -18,6 +18,25 @@ O sistema deve funcionar tanto em computadores como em dispositivos móveis.
 
 * Empresa Microméros Tecnologias que atua no setor industrial. A empresa fornece a infraestrutura, a instalação e a manutenção dos sensores, e fornece relatórios com os dados coletados, por meio de gráficos, telas e dashboards. A Microméros atua no meio industrial, atendendo fábricas, transportadoras, etc.
 
+
+# 5W2H
+
+O que?:O sistema deve ter controle sob os chamados que a empresa recebe;
+
+Quem?:Os usuários como também os trabalhadores da própria empresa
+
+Porque?: O sistema vai funcionar como um facilitador para a empresa controlar as informações recebidas;
+
+Como?: O sistema irá administrar a quantia de chamados e sua procedencia além de criar um dashboard com tais informações;
+
+Onde?: Via WEB, com "suporte" para navegadores no Desktop e mobile
+
+Quando?: Deverá ser finalizado no primeiro semestre de 2023;
+
+Quanto?: Não haverá financero, apenas com equipe se dedicando;
+
+
+
 # Requisitos funcionais:
 
 ## Login e Cadastro de usuários.
