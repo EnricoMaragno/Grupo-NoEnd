@@ -2,21 +2,27 @@
 
 * O sistema tem como objetivo gerenciar e organizar os chamados internos e externos da empresa.
 
-# Quem irá utilizar?
+# 5W2H
+## O que?
+* O sistema deve ter controle sob os chamados que a empresa recebe.
 
-* Qualquer pessoa que tiver acesso ao Software, no qual as pessoas se comunicam via chamado. Para tanto, se qualquer integrante do departamento comercial etiver tendo entraves, irá acionar o software pelo seu dispostivo "mobile" ou fixo, e assim, será direcionado ao dashboard geral. Dessa forma, dependendo de como o usuário maneja o software, este poderá categorizar o chamado após ter sido solicitado. Logo, após ter sido requisitado pelo departamento de TI, os próprios funcionários abririam chamado.
+##Quem?
+* Os usuários como também os trabalhadores da própria empresa.
 
-# Onde?
+##Porque?
+* O sistema vai funcionar como um facilitador para a empresa controlar as informações recebidas.
 
-O sistema deve funcionar tanto em computadores como em dispositivos móveis.
+##Como?
+* O sistema irá administrar a quantia de chamados e sua procedencia além de criar um dashboard com tais informações.
 
-# Por que?
+##Onde?
+* Via WEB, com "suporte" para navegadores no Desktop e mobile.
 
-* Para que ocorra de maneira mais fácil a comunicação entre a empresa e o cliente, possibilitando responder os clientes mais rapidamente.
+##Quando?
+* Deverá ser finalizado no primeiro semestre de 2023.
 
-# Quem?
-
-* Empresa Microméros Tecnologias que atua no setor industrial. A empresa fornece a infraestrutura, a instalação e a manutenção dos sensores, e fornece relatorios com os dados coletados, por meio de gráficos, telas e dashboards. A Microméros atua no meio industrial, atendendo fábricas, transportadoras, etc.
+##Quanto?
+* Não haverá financero, apenas com equipe se dedicando.
 
 # Requisitos funcionais:
 
