@@ -6,22 +6,22 @@
 ## O que?
 * O sistema deve ter controle sob os chamados que a empresa recebe.
 
-##Quem?
+## Quem?
 * Os usuários como também os trabalhadores da própria empresa.
 
-##Porque?
+## Porque?
 * O sistema vai funcionar como um facilitador para a empresa controlar as informações recebidas.
 
-##Como?
+## Como?
 * O sistema irá administrar a quantia de chamados e sua procedencia além de criar um dashboard com tais informações.
 
-##Onde?
+## Onde?
 * Via WEB, com "suporte" para navegadores no Desktop e mobile.
 
-##Quando?
+## Quando?
 * Deverá ser finalizado no primeiro semestre de 2023.
 
-##Quanto?
+## Quanto?
 * Não haverá financero, apenas com equipe se dedicando.
 
 # Requisitos funcionais:
