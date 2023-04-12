@@ -44,7 +44,7 @@
   
   5- O sistema deve possuir uma tela de login apenas com campos para por email corporativo e senha, e um botao para entrar.
   
-## Interface de chamados.
+## Interface.
 
   1- O sistema deve possuir uma interface que mostre os chamados abertos, concluidos e em espera.
   
