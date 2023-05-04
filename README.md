@@ -106,3 +106,4 @@
   - Apenas usuários do setor requisitado pelo cliente terá direção e aptidão para resolver o problema solicitado.
   
   - Prioridade: Essencial
+.
