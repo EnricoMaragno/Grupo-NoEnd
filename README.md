@@ -94,7 +94,7 @@
   
  - Pré-Condição: o sistema deve estar disponível e preparado para o uso.
   
- - Fluxo principal: Após o usuário fizer login e o chamado constar no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado, seu número de    celular e o motivo do chamado ter sido feito.
+ - Fluxo principal: Após o usuário efetuar login e o chamado constar no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado, seu número de celular e o motivo do chamado ter sido feito.
 
 ![WhatsApp Image 2023-05-04 at 10 18 00](https://user-images.githubusercontent.com/115193063/236216540-6ea67746-961d-4af8-8d5e-83ce234087b2.jpeg)
   
