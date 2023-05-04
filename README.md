@@ -85,17 +85,20 @@
   6- O sistema deve ser desenvolvido em ReactJS.
   
   # Casos de uso: Abertura de um chamado
-  Sistema orientado aos chamados
+ 
+ - Descrição: O usúario ira acessar o site, conceder seus dados e informações, assim, estruturando o chamado, para resolver suas pendências.
   
-  - O cliente irá conceder seus dados ao usuário do setor de tecnologia, que irá inserir os dados, estruturando o dado.
+ - O cliente irá conceder seus dados ao usuário do setor de tecnologia, que irá inserir os dados, estruturando o chamado.
   
-  Ator principal do sistema: funcionários
+ - Ator principal do sistema: funcionários
   
-  Pré-requisito: o sistema deve constar no sistema que foi aberto.
+ - Pré-Condição: o sistema deve estar disponível e preparado para o uso.
   
-  - Após o chamado constar no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado, seu número de celular e o       motivo do chamado ter sido feito.
+ - Fluxo principal: Após o chamado ser computado no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado , seu número de celular e também o motivo do chamado , evidentemente na área da empresa o qual solicita ajuda. 
+
+![WhatsApp Image 2023-05-04 at 10 18 00](https://user-images.githubusercontent.com/115193063/236216540-6ea67746-961d-4af8-8d5e-83ce234087b2.jpeg)
   
-  - Nesse sentido, o melhor cenário de implementação seria o usuário introduzir os dados no sistema através do autentificador de cadastro, logo, os dados irão constar   no dashboard do chamado, sendo agendado em menos de 48 horas.
+  - Fluxo alternativo: Nesse sentido, o melhor cenário de implementação seria o usuário introduzir os dados no sistema através do autentificador de cadastro, logo, os    dados irão constar no dashboard do chamado, sendo agendado em menos de 48 horas.
   
   - O sistema deve possuir a descrição do chamado, por: título, nível crítico (alto, médio e baixo) e departamento que abriu o chamado um dashboard para cada setor,     dependendo do seu nível de acesso.
   
@@ -103,7 +106,7 @@
   
   - Frequência de uso: 24 horas por dia, sendo agendado em até 48 horas.
   
-  - Apenas usuários do setor requisitado pelo cliente terá direção e aptidão para resolver o problema solicitado.
+  - Campos: Apenas usuários do setor requisitado pelo cliente terá direção e aptidão para resolver o problema solicitado.
   
   - Prioridade: Essencial
-.
+
