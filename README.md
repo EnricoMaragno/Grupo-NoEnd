@@ -92,13 +92,13 @@
   
  - Ator principal do sistema: funcionários
   
- - Pré-Condição: o sistema deve estar disponível e preparado para o uso.
+ - Pré-Condição: 
   
- - Fluxo principal: Após o chamado ser computado no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado , seu número de celular e também o motivo do chamado , evidentemente na área da empresa o qual solicita ajuda. 
+ - Fluxo principal: 
 
 ![WhatsApp Image 2023-05-04 at 10 18 00](https://user-images.githubusercontent.com/115193063/236216540-6ea67746-961d-4af8-8d5e-83ce234087b2.jpeg)
   
-  - Fluxo alternativo: Nesse sentido, o melhor cenário de implementação seria o usuário introduzir os dados no sistema através do autentificador de cadastro, logo, os    dados irão constar no dashboard do chamado, sendo agendado em menos de 48 horas.
+  - Fluxo alternativo:
   
   - O sistema deve possuir a descrição do chamado, por: título, nível crítico (alto, médio e baixo) e departamento que abriu o chamado um dashboard para cada setor,     dependendo do seu nível de acesso.
   
