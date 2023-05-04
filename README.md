@@ -86,7 +86,7 @@
   
   # Casos de uso: Abertura de um chamado
  
- - Descrição: O usúario ira acessar o site para abrir um chamado para resolver suas pendências.
+ - Descrição: O usúario ira acessar o site, conceder seus dados e informações, assim, estruturando o chamado, para resolver suas pendências.
   
  - O cliente irá conceder seus dados ao usuário do setor de tecnologia, que irá inserir os dados, estruturando o chamado.
   
@@ -94,7 +94,7 @@
   
  - Pré-Condição: o sistema deve estar disponível e preparado para o uso.
   
- - Fluxo principal: Após o usuário efetuar login e o chamado constar no sistema, ele deve possuir suas respectivas informações de acordo com o cargo do seu cadastro.
+ - Fluxo principal: Após o chamado ser computado no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado , seu número de celular e também o motivo do chamado , evidentemente na área da empresa o qual solicita ajuda. 
 
 ![WhatsApp Image 2023-05-04 at 10 18 00](https://user-images.githubusercontent.com/115193063/236216540-6ea67746-961d-4af8-8d5e-83ce234087b2.jpeg)
   
