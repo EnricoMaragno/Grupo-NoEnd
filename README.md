@@ -27,7 +27,7 @@ Ator primário;  Funcionário do sistema.
 
 Pré-condições: o chamado constar no sistema que foi aberto
 
-condição seguinte: após o chamado constar no sistema, ele deve possuir suas respectivas informações como o nome do cliente que solicitou o chamado , seu número de celular e também o motivo do chamado , evidentemente na área da empresa o qual solicita ajuda. 
+condição seguinte: após o chamado constar no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado , seu número de celular e também o motivo do chamado , evidentemente na área da empresa o qual solicita ajuda. 
 
 Melhor cenário de implementação: o usuário introduz os dados no sistema, é validado pelo sistema de autenticador de cadastro, os dados constarem no dashboard do chamado, consequentemente o chamado será agendado em menos de 48 hrs.
 
