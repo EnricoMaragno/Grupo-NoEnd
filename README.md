@@ -102,7 +102,7 @@
   
   - O sistema deve possuir a descrição do chamado, por: título, nível crítico (alto, médio e baixo) e departamento que abriu o chamado um dashboard para cada setor,     dependendo do seu nível de acesso.
   
-  - Pós condição: O sistema deve constar que o chamado foi computado no sistema.
+  - Pós condição: O chamado estará aberto.
   
   - Frequência de uso: 24 horas por dia, sendo agendado em até 48 horas.
   
