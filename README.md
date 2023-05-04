@@ -99,6 +99,8 @@
   
   - O sistema deve possuir a descrição do chamado, por: título, nível crítico (alto, médio e baixo) e departamento que abriu o chamado um dashboard para cada setor,     dependendo do seu nível de acesso.
   
+  - Pós condição: O sistema deve constar que o chamado foi computado no sistema.
+  
   - Frequência de uso: 24 horas por dia, sendo agendado em até 48 horas.
   
   - Apenas usuários do setor requisitado pelo cliente terá direção e aptidão para resolver o problema solicitado.
