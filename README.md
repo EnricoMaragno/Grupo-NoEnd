@@ -84,3 +84,23 @@
 
   6- O sistema deve ser desenvolvido em ReactJS.
   
+  # Casos de uso: Abertura de um chamado
+  Sistema orientado aos chamados
+  
+  - O cliente irá conceder seus dados ao usuário do setor de tecnologia, que irá inserir os dados, estruturando o dado.
+  
+  Ator principal do sistema: funcionários
+  
+  Pré-requisito: o sistema deve constar no sistema que foi aberto.
+  
+  - Após o chamado constar no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado, seu número de celular e o       motivo do chamado ter sido feito.
+  
+  - Nesse sentido, o melhor cenário de implementação seria o usuário introduzir os dados no sistema através do autentificador de cadastro, logo, os dados irão constar   no dashboard do chamado, sendo agendado em menos de 48 horas.
+  
+  - O sistema deve possuir a descrição do chamado, por: título, nível crítico (alto, médio e baixo) e departamento que abriu o chamado um dashboard para cada setor,     dependendo do seu nível de acesso.
+  
+  - Frequência de uso: 24 horas por dia, sendo agendado em até 48 horas.
+  
+  - Apenas usuários do setor requisitado pelo cliente terá direção e aptidão para resolver o problema solicitado.
+  
+  - Prioridade: Essencial
