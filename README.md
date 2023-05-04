@@ -138,3 +138,9 @@ O sistema deve funcionar tanto em computadores como em dispositivos móveis.
 5- Seguir as normas SLA, proteger contratado e contratante, além de dar maior credibilidade e confiabilidade à relação.
 
 6- O sistema deve ser desenvolvido em ReactJS.
+
+
+
+
+
+Fluxo principal: O usuário acessa o sistema de abertura de chamados. O sistema apresenta uma tela com opções para o usuário selecionar o tipo de problema que está enfrentando, como "problemas de hardware", "problemas de software" ou "problemas de rede". O usuário irá selecionar o tipo de problema que está enfrentando. O sistema apresenta uma tela com mais detalhes sobre o tipo de problema selecionado e solicita que o usuário forneça mais informações sobre o problema, como uma descrição detalhada do que está acontecendo e uma captura de tela. O usuário preenche as informações solicitadas e envia o chamado. O sistema confirma o recebimento do chamado e fornece um número de referência para que o usuário possa acompanhar o status do chamado. O sistema encaminha o chamado para o departamento ou técnico responsável pelo tipo de problema relatado. O técnico ou departamento responsável pelo problema recebe o chamado e começa a trabalhar na solução.O técnico ou departamento responsável atualiza o status do chamado regularmente fornece uma resposta para o usuário. O sistema notifica o usuário quando a resposta for enviada.
