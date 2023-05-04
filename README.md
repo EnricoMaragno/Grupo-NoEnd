@@ -46,11 +46,7 @@
   
   5- O sistema deve possuir uma tela de login apenas com campos para por email corporativo e senha, e um botao para entrar.
   
-  6 - Os principais atores do sistema são os funcionários da empresa (usuários), os quais irão interagir diretamente com o sistema, ajudando a definir a sua função       nesse software.
-  
-  7- O principal objetivo desse caso de uso é a criação de uma forma de gerência de chamados, abertos, fechados ou em andamento.
-  
-  8- O usuário terá um cadastro próprio, colocando suas informações nesse campo. 
+  6 - O usuário terá um cadastro próprio, colocando suas informações nesse campo. 
   
 ## Interface de chamados
 
