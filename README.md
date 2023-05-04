@@ -94,7 +94,9 @@
   
  - Pré-Condição: o sistema deve estar disponível e preparado para o uso.
   
- - Fluxo principal: Após o chamado constar no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado, seu número de    celular e o motivo do chamado ter sido feito.
+ - Fluxo principal: Após o usuário fizer login e o chamado constar no sistema, ele deve possuir suas respectivas informações tais como o nome do cliente que solicitou o chamado, seu número de    celular e o motivo do chamado ter sido feito.
+
+![WhatsApp Image 2023-05-04 at 10 18 00](https://user-images.githubusercontent.com/115193063/236216540-6ea67746-961d-4af8-8d5e-83ce234087b2.jpeg)
   
   - Fluxo alternativo: Nesse sentido, o melhor cenário de implementação seria o usuário introduzir os dados no sistema através do autentificador de cadastro, logo, os    dados irão constar no dashboard do chamado, sendo agendado em menos de 48 horas.
   
@@ -107,3 +109,4 @@
   - Campos: Apenas usuários do setor requisitado pelo cliente terá direção e aptidão para resolver o problema solicitado.
   
   - Prioridade: Essencial
+
