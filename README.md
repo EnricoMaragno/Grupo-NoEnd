@@ -62,7 +62,7 @@
   
   7- O sistema deve possuir um dashboard para cada departamento, depensendo do seu nível de acesso.
   
-  8- O sistema deve possuir a descriçlão do chamado, por título, nível crítico e o departamento que abriu o chamado.
+  8- O sistema deve possuir a descrição do chamado, por título, nível crítico e o departamento que abriu o chamado.
 
 # Requisitos não funcionais
 
